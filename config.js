@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Dott.sa Matilde Piazzon",
+    valentineName: "Dott.sa Matilde Piazzoni",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -29,7 +29,7 @@ const CONFIG = {
         },
         second: {
             text: "Quanto ci vuoi andare?",                          // For the love meter
-            startText: "Troppo",                                   // Text before the percentage
+            startText: "Sushimetro",                                   // Text before the percentage
             nextBtn: "Dai Sbrigati che ho fame"                                         // Text for the next button
         },
         third: {
