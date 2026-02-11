@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Passiamo il San Valentino insieme??? 💝",
+    pageTitle: "Passiamo il San Valentino insieme??? ",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -30,12 +30,12 @@ const CONFIG = {
         second: {
             text: "Quanto ci vuoi andare??",                          // For the love meter
             startText: "Tanto!",                                   // Text before the percentage
-            nextBtn: "Tantissimooooo"                                         // Text for the next button
+            nextBtn: "Non vedo l'ora di mangiare tutto il sushi presente"                                         // Text for the next button
         },
         third: {
             text: "Quindi vuoi essere la mia valentina giorno 13 Febbraio 2026???🌹", // The big question!
-            yesBtn: "S!",                                             // Text for "Yes" button
-            noBtn: "Certamente"                                                 // Text for "No" button
+            yesBtn: "Avevi dubbi a riguardo?",                                             // Text for "Yes" button
+            noBtn: "Consideri anche altre opzioni???"                                                 // Text for "No" button
         }
     },
 
@@ -76,7 +76,7 @@ const CONFIG = {
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
     music: {
-        enabled: false,                     // Music feature is enabled
+        enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
