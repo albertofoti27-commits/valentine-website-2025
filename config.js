@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Dott.sa Matilde Piazzoni",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Passiamo il San Valentino insieme??? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,20 +22,20 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
+            text: "Vuoi andare ad una bellissima cena di Sushi alla carta????",                                    // First interaction
+            yesBtn: "Si",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "Dovresti cliccare qui, intuile che clicchi si o no"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "Quanto ci vuoi andare??",                          // For the love meter
+            startText: "Tanto!",                                   // Text before the percentage
+            nextBtn: "Tantissimooooo❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Quindi vuoi essere la mia valentina giorno 13 Febbraio 2026???🌹", // The big question!
+            yesBtn: "S!",                                             // Text for "Yes" button
+            noBtn: "Certamente"                                                 // Text for "No" button
         }
     },
 
